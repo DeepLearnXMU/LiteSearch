@@ -1,6 +1,6 @@
 # LiteSearch
 
-Code for reproducing results in the LiteSearch paper.
+This repository contains the code for the paper "LiteSearch: Efficacious Tree Search for LLM" (AAAI 2025).
 
 ## Getting Started
 
@@ -40,3 +40,14 @@ Wait for the search to complete.
 
 All experiments in our paper are conducted on 8 V100 GPU (32G).
 Ensure you have all necessary dependencies installed and configured before running the scripts. For more details on dependencies and setup, refer to the paper.
+
+## Citation
+
+```
+@article{wang2024litesearch,
+  title={Litesearch: Efficacious tree search for llm},
+  author={Wang, Ante and Song, Linfeng and Tian, Ye and Peng, Baolin and Yu, Dian and Mi, Haitao and Su, Jinsong and Yu, Dong},
+  journal={arXiv preprint arXiv:2407.00320},
+  year={2024}
+}
+```
